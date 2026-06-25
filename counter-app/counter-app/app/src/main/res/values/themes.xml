@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.CounterApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
